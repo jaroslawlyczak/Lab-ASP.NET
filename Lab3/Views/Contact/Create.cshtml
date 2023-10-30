@@ -1,0 +1,31 @@
+﻿@model Contact
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1> Dodaj kontakt  </h1>
+<form asp-controller="Contact" asp-action="Create" method="post">
+    <label asp-for="Name">Name</label>
+    <input class=" form-control" asp-for="Name" />
+    <sapn class=" text-danger"  asp-validation-for="Name"</sapn>
+
+    <label asp-for="Email"></label>
+    <input class=" form-control" asp-for="Email" />
+    <sapn class=" text-danger" asp-validation-for="Email"</sapn>
+        
+    <label asp-for="Phone"></label>
+    <input class=" form-control" asp-for="Phone" />
+    <sapn class=" text-danger" asp-validation-for="Phone"</sapn>
+
+    <label asp-for="Birth"></label>
+    <input class=" form-control" asp-for="Birth" />
+    <sapn class=" text-danger" asp-validation-for="Birth"</sapn>
+
+    <button type="submit" class=" btn btn-primary">Dodaj</button>
+
+
+
+        
+   </form>
