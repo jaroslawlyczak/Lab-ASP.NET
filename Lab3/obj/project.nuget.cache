@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PInywICkrMC1333gpWGUl3hTvDRyRivTe5y0NbmbCUKmshVuzlEAvdrsP51my9HvFAgBAsskXq7sosf4FE6WLA==",
+  "dgSpecHash": "S424IO9lO/kmdULhnbfB3ghaAx6GkyfyZr5Qb+mCaMN9DkRIflgLWLeG5+t0lZCEOF/5PYlgMESZqQz4x+nXZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jarek\\source\\repos\\Laboratorium ASP.NET\\Lab3\\Lab3.csproj",
+  "projectFilePath": "C:\\Users\\jarek\\source\\projekty\\Lab ASP.NET\\Lab3\\Lab3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jarek\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\jarek\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

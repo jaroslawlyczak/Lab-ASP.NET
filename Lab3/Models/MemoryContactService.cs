@@ -7,14 +7,19 @@ namespace Lab3.Models
 
         private readonly Dictionary<int, Contact> _contacts = new Dictionary<int, Contact>()
         {
-                { 1, new Contact() { ID = 1, Name = "John Doe", Email = "" } } };
-        
+                { 1, new Contact() { Id = 1, Name = "John Doe", Email = "JohnDoe@gmail.com", Phone = "123456789" } },
+                { 2, new Contact() { Id = 2, Name = "Roman ree", Email = "romannn@gmail.com", Phone = "123456789" } }
 
+
+        };
         
+        private int _id = 3;
+
 
         public void Add(Contact contact)
         {
-            throw new NotImplementedException();
+            contact.Id = _id++;
+            _contacts[contact.Id] = contact;    
         }
 
         public void Delete(int id)
@@ -22,9 +27,19 @@ namespace Lab3.Models
             throw new NotImplementedException();
         }
 
+        public void DeleteByID(int id)
+        {
+            _contacts.Remove(id);
+        }
+
         public List<Contact> FindAll()
         {
-            throw new NotImplementedException();
+            return _contacts.Values.ToList();
+        }
+
+        public Contact? FindById(int id)
+        {
+            return _contacts[id];
         }
 
         public Contact Get(int id)

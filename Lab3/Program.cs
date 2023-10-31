@@ -1,3 +1,5 @@
+using Lab3.Models;
+
 namespace Lab3
 {
     public class Program
