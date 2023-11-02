@@ -10,7 +10,7 @@ namespace Lab3
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-            builder.Services.AddSingleton<IContactService, MemoryContactService>();
+           
 
             var app = builder.Build();
 
@@ -31,7 +31,7 @@ namespace Lab3
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Contact}/{action=Index}/{id?}");
 
             app.Run();
         }

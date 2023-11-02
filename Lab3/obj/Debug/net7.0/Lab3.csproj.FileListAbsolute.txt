@@ -6,9 +6,6 @@ C:\Users\jarek\source\projekty\Lab ASP.NET\Lab3\bin\Debug\net7.0\Lab3.deps.json
 C:\Users\jarek\source\projekty\Lab ASP.NET\Lab3\bin\Debug\net7.0\Lab3.runtimeconfig.json
 C:\Users\jarek\source\projekty\Lab ASP.NET\Lab3\bin\Debug\net7.0\Lab3.dll
 C:\Users\jarek\source\projekty\Lab ASP.NET\Lab3\bin\Debug\net7.0\Lab3.pdb
-C:\Users\jarek\source\projekty\Lab ASP.NET\Lab3\bin\Debug\net7.0\xunit.abstractions.dll
-C:\Users\jarek\source\projekty\Lab ASP.NET\Lab3\bin\Debug\net7.0\xunit.core.dll
-C:\Users\jarek\source\projekty\Lab ASP.NET\Lab3\obj\Debug\net7.0\Lab3.csproj.AssemblyReference.cache
 C:\Users\jarek\source\projekty\Lab ASP.NET\Lab3\obj\Debug\net7.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jarek\source\projekty\Lab ASP.NET\Lab3\obj\Debug\net7.0\Lab3.AssemblyInfoInputs.cache
 C:\Users\jarek\source\projekty\Lab ASP.NET\Lab3\obj\Debug\net7.0\Lab3.AssemblyInfo.cs
@@ -26,7 +23,6 @@ C:\Users\jarek\source\projekty\Lab ASP.NET\Lab3\obj\Debug\net7.0\staticwebassets
 C:\Users\jarek\source\projekty\Lab ASP.NET\Lab3\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\jarek\source\projekty\Lab ASP.NET\Lab3\obj\Debug\net7.0\scopedcss\bundle\Lab3.styles.css
 C:\Users\jarek\source\projekty\Lab ASP.NET\Lab3\obj\Debug\net7.0\scopedcss\projectbundle\Lab3.bundle.scp.css
-C:\Users\jarek\source\projekty\Lab ASP.NET\Lab3\obj\Debug\net7.0\Lab3.csproj.CopyComplete
 C:\Users\jarek\source\projekty\Lab ASP.NET\Lab3\obj\Debug\net7.0\Lab3.dll
 C:\Users\jarek\source\projekty\Lab ASP.NET\Lab3\obj\Debug\net7.0\refint\Lab3.dll
 C:\Users\jarek\source\projekty\Lab ASP.NET\Lab3\obj\Debug\net7.0\Lab3.pdb
